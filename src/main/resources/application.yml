@@ -1,0 +1,17 @@
+application:
+  decision-engine:
+    minimum-loan-amount: 2000
+    maximum-loan-amount: 10000
+    minimum-loan-period: 12
+    maximum-loan-period: 48
+    segment-1-credit-modifier: 100
+    segment-2-credit-modifier: 300
+    segment-3-credit-modifier: 1000
+    loan-interval: 6 # in months
+  age-validation:
+    minimum-age-es: 18
+    maximum-age-es: 78
+    minimum-age-lv: 18
+    maximum-age-lv: 95
+    minimum-age-lt: 40
+    maximum-age-lt: 70
