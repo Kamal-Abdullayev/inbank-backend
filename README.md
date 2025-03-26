@@ -1,5 +1,7 @@
 # InBank Backend Service - Validation of TICKET 101
 
+P.S. This project is in a public repo because it was requested to be shared publicly
+
 ## What the intern did well?
     - Using layered architecture
     - Adding comments to each method to explain what they do
